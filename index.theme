@@ -1,0 +1,6 @@
+[theme]
+name=batou
+description=Another lightdm webkit2 theme
+engine=lightdm-webkit2-greeter
+url=index.html
+session=awesome
